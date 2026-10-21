@@ -39,7 +39,7 @@ Provides an overview of employee demographics, department distribution, age, gen
 
 Explores employee attrition by department, job role, overtime, age, and years at the company.
 
-![Employee Attrition Analysis](employee-attrition-analysis.png)
+![Employee Attrition Analysis](employee-attrition-analysis1.png)
 
 ### 3. Employee Satisfaction & Career Growth
 
